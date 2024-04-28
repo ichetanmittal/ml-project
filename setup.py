@@ -21,7 +21,7 @@ def get_requirements(file_path:str)->List[str]:
 setup(
     name='ml-project',
     version='0.0.1',
-    description='Predicting the price of a house based on various features',
+    description='Student Performance iNDICATOR',
     author='Chetan',
     license='MIT',
     packages=find_packages(),
